@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Crystal_Clear_action_view_remove.png</file>
+        <file>images/Crystal_Clear_action_view_remove_with_NO.png</file>
+    </qresource>
+</RCC>
